@@ -1,0 +1,14 @@
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\calcApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\calcApp.AssemblyInfoInputs.cache
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\calcApp.AssemblyInfo.cs
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\calcApp.csproj.CoreCompileInputs.cache
+F:\programmering\c# - masterclass\calcApp\bin\Debug\net8.0\calcApp.exe
+F:\programmering\c# - masterclass\calcApp\bin\Debug\net8.0\calcApp.deps.json
+F:\programmering\c# - masterclass\calcApp\bin\Debug\net8.0\calcApp.runtimeconfig.json
+F:\programmering\c# - masterclass\calcApp\bin\Debug\net8.0\calcApp.dll
+F:\programmering\c# - masterclass\calcApp\bin\Debug\net8.0\calcApp.pdb
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\calcApp.dll
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\refint\calcApp.dll
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\calcApp.pdb
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\calcApp.genruntimeconfig.cache
+F:\programmering\c# - masterclass\calcApp\obj\Debug\net8.0\ref\calcApp.dll
